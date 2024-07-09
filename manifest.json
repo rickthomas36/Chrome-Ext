@@ -1,0 +1,11 @@
+{
+    "name":"Upcoming Detroit concerts",
+    "version":"1.0.0",
+    "description":"A simple API for retrieving upcoming concerts in Detroit",
+    "manifest_version":3,
+    "author": "Richard Seabridge",
+    "action": {
+        "default_popup": "index.html",
+        "deafult_title": "Upcoming Detroit concerts"
+    }
+}
